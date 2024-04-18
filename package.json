@@ -3,7 +3,7 @@
   "description": "httpntlm is a Node.js library to do HTTP NTLM authentication",
   "version": "1.7.7",
   "dependencies": {
-    "httpreq": ">=0.4.22",
+    "httpreq": "0.5.1",
     "underscore": "~1.12.1"
   },
   "author": {
